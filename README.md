@@ -1,0 +1,1 @@
+I recently developed a Python program that generates a random number and challenges the user to guess it. The program provides feedback if the guess is too high or too low and tracks the number of attempts until the user correctly guesses the number. This project is a fun way to practice control flow, user input handling, and basic logic in Python.
